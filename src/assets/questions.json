@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "What are meta tags in HTML ?",
+            "options": [{
+                    "text": "Meta tags are those tags which go inside the Head tag of the HTML page",
+                    "correct": true
+                },
+                {
+                    "text": "Meta tags are not for the interface they are important for the browser."
+                },
+                {
+                    "text": "Meta Tags are always in name or value pairs "
+                },
+                {
+                    "text": "Meta tags consist of character encoding, title, or even description."
+                }
+            ],
+            "explanation": "Meta tags are those tags which go inside the Head tag of the HTML page"
+        },
+        {
+            "questionText": "What property is used to change the text color of an element?",
+            "options": [{
+                    "text": "fontcolor"
+                },
+                {
+                    "text": "textcolor"
+                },
+                {
+                    "text": "colorstyle"
+                },
+                {
+                    "text": "color",
+                    "correct": true
+                }
+            ],
+            "explanation": "color is  used to change the text color of an element"
+        },
+        {
+            "questionText": "What keyword is used to create a JavaScript variable?",
+            "options": [{
+                    "text": "variable."
+                },
+                {
+                    "text": "var.",
+                    "correct": true
+                },
+                {
+                    "text": "string."
+                },
+                {
+                    "text": "varies."
+                }
+            ],
+            "explanation": "var: It is used to hold any JavaScript data type."
+        },
+        {
+            "questionText": "Which of the following function of String object returns the character at the specified index?",
+            "options": [{
+                    "text": "charCodeAt()"
+                },
+                {
+                    "text": "charAt()",
+                    "correct": true
+                },
+                {
+                    "text": "concat()"
+                },
+                {
+                    "text": "indexOf()"
+                }
+            ],
+            "explanation": "charAt(): While charAt() returns the char of specified index, charCodeAt() returns the unicode"
+        },
+        {
+            "questionText": "In which of these does a class take parameters?",
+            "options": [{
+                    "text": "constructor",
+                    "correct": true
+                },
+                {
+                    "text": "destructor"
+                },
+                {
+                    "text": "import"
+                },
+                {
+                    "text": "subscribe"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "How can you print information to the console?",
+            "options": [{
+                    "text": "print(info)"
+                },
+                {
+                    "text": "console(info)"
+                },
+                {
+                    "text": "printconsole(info)"
+                },
+                {
+                    "text": "console.log(info)",
+                    "correct": true
+                }
+            ],
+            "explanation": "console.log(info): Other console methods are console.dir(), console.time() and others."
+        },
+        {
+            "questionText": "Which keyword allows us to share information between files in TypeScript?",
+            "options": [{
+                    "text": "import"
+                },
+                {
+                    "text": "export",
+                    "correct": true
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "constructor"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "var a = []; What does 'typeof a' return?",
+            "options": [{
+                    "text": "object",
+                    "correct": true
+                },
+                {
+                    "text": "array"
+                },
+                {
+                    "text": "string"
+                },
+                {
+                    "text": "undefined"
+                }
+            ],
+            "explanation": "object: Arrays are considered a special type of object in JavaScript"
+        },
+        {
+            "questionText": "How is a property accessible within a class?",
+            "options": [{
+                    "text": "Using this.propertyName",
+                    "correct": true
+                },
+                {
+                    "text": "Accessors"
+                },
+                {
+                    "text": "Destructuring"
+                },
+                {
+                    "text": "Arrow function"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}
